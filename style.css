@@ -1,0 +1,15 @@
+body {
+    text-align: center;
+    background: linear-gradient(#EC407A 0%, #D50000 100%);
+}
+
+h1 {
+    text-shadow: 20px;
+    font-size: 20px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
